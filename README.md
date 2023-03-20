@@ -1,88 +1,63 @@
+<div align="center">
+  <img height=24 src="https://img.shields.io/badge/-HTML5-ff5722" alt="HTML5" />
+  <img height=24 src="https://img.shields.io/badge/-CSS3-214ce5" alt="CSS3" />
+  <img height=24 src="https://img.shields.io/badge/-Javascript-yellow" alt="Javascript" />
+  <img height=24 src="https://img.shields.io/badge/-Typescript-2d79c7" alt="Typescript" />
+  <img height=24 src="https://img.shields.io/badge/-Node.js-4c9842" alt="Node.js" />
+  <img height=24 src="https://img.shields.io/badge/-C--Sharp-803789" alt="C-Sharp" />
+  <img height=24 src="https://img.shields.io/badge/-Java-eb2d2f" alt="Java" />
+</div>
+
+<table>
+  <tr>
+    <td rowspan="5"><img src="https://avatars.githubusercontent.com/u/15215540?v=4" alt="avatar" /></td>
+    <td>Under a full moon, this Pokémon gets vastly smarter, while mimicking Stack Overflow replies.</td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <th width="200">Occupation :briefcase:</th>
+          <th width="200">Category :page_with_curl:</th>
+          <th width="200"">Hobby :joystick:</th>
+                </tr>
+                <tr>
+                    <td>Student :man_student:</td>
+                    <td>Developer :computer:</td>
+                    <td>Illustration :pencil2:</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <th width=" 200">Location :pushpin:</th>
+          <th width="200">Growth Rate :chart_with_upwards_trend:</th>
+          <th width="200">Nature :grin:</th>
+        </tr>
+        <tr>
+          <td>Brazil :soccer:</td>
+          <td>Fast :rocket:</td>
+          <td>Gentle :relieved:</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=24 src="https://img.shields.io/badge/-Ghost-blueviolet" alt="Ghost" />
+      <img height=24 src="https://img.shields.io/badge/-Poison-purple" alt="Poison" />
+    </td>
+  </tr>
+</table>
+
 - 🌱 I’m currently learning *Bootstrap, Prisma ORM, MySQL, Unity Engine*
 - 🎓 Majoring in *Computer Science 💻*
-- 💬 Ask me about *anything!*
 - 📫 My e-mail address is *pro.gduarte@gmail.com*
 - 😄 My pronouns are: he/him
 - ⚡ Fun fact: I can draw and solve a Rubik's cube (not simultaneously lol)
-
-<!--
-```js
-const curriculo = {
-// BASICO
-  nome: "Gustavo Duarte",
-  data_de_nascimento: new Date("2002-09-15"),
-
-// CONTATO
-  telefones: ["+55 (85) 9 9717-7790"],
-  endereco_email: "pro.gduarte@gmail.com",
-  redes_sociais: ["linkedin.com/in/pro-gduarte"],
-
-// SKILLS
-  stack: {
-    conhece_bem: ["HTML5", "CSS3", "JavaScript", "Java", "C"],
-    conhece: ["ReactJS", "C#", "Kotlin", "C++"],
-    interesse: ["React Native", "Vue.JS"],
-  },
-  
-  competencias: [
-    "Ingles Avancado",
-    "Trabalho em Equipe",
-    "Logica de Programacao",
-    "Programacao Orientada a Objetos",
-    "Desenvolvimento Web",
-    "Autoaprimoramento",
-    "Boa Comunicação Oral e Escrita",
-    "Criatividade",
-    "Conhecimentos Basicos de UX/UI Design",
-  ],
-  
-// FORMACAO
-  formacao_academica: [{
-      instituicao: "Universidade de Fortaleza (UNIFOR)",
-      titulo: "Ciencia da Computacao",
-      periodo: { inicio: "Agosto/2021", fim: "Dezembro/2025" },
-      local: "Fortaleza, CE",
-  }],
-  formacao_complementar: [
-    {
-      instituicao: "Rocketseat",
-      titulo: "Curso Discover - Trilha: Conectar",
-      carga: { minutos: 143 },
-      conclusao: "Agosto/2022",
-      local: null,
-    },
-    {
-      instituicao: "Universidade de Fortaleza",
-      titulo: "Ciclo de Palestras 2022.1 (Manhã)",
-      carga: { minutos: 180 }
-      conclusao: "Marco/2022",
-      local: "Fortaleza, CE"
-    },
-    {
-      instituicao: "Universidade de Fortaleza",
-      titulo: "Ciclo de Palestras 2022.1 (Noite)",
-      carga: { minutos: 180 }
-      conclusao: "Marco/2022",
-      local: "Fortaleza, CE"
-    },
-    {
-      instituicao: "Universidade de Fortaleza",
-      titulo: "Inovação, Tecnologia e o Profissional do Futuro (Mundo Unifor 2021)",
-      carga: { minutos: 60 }
-      conclusao: "Outubro/2021",
-      local: "Fortaleza, CE"
-    },
-    {
-      instituicao: "Universidade de Fortaleza",
-      titulo: "Em certo sentido, todos os desastres são causados pelo homem (Mundo Unifor 2021)",
-      carga: { minutos: 60 }
-      conclusao: "Outubro/2021",
-      local: "Fortaleza, CE"
-    },
-  ]
-}
-```
--->
 
 <!--
 **Geezgus/Geezgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
