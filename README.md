@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-- 🌱 I’m currently learning *Prisma ORM, MySQL, Docker, Unity Engine*
+<!-- - 🌱 I’m currently learning *Prisma ORM, MySQL, Docker, Unity Engine* -->
 - 🎓 Majoring in *Computer Science 💻*
 - 📫 My e-mail address is *pro.gduarte@gmail.com*
 - 😄 My pronouns are: he/him
