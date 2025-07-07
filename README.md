@@ -1,75 +1,46 @@
 <div align="center">
-  <img height=24 src="https://img.shields.io/badge/-HTML5-ff5722" alt="HTML5" />
-  <img height=24 src="https://img.shields.io/badge/-CSS3-214ce5" alt="CSS3" />
-  <img height=24 src="https://img.shields.io/badge/-Javascript-yellow" alt="Javascript" />
-  <img height=24 src="https://img.shields.io/badge/-Typescript-2d79c7" alt="Typescript" />
-  <img height=24 src="https://img.shields.io/badge/-Node.js-4c9842" alt="Node.js" />
-  <img height=24 src="https://img.shields.io/badge/-C--Sharp-803789" alt="C-Sharp" />
-  <img height=24 src="https://img.shields.io/badge/-Java-eb2d2f" alt="Java" />
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 </div>
 
-<table>
-  <tr>
-    <td rowspan="5"><img src="https://avatars.githubusercontent.com/u/15215540?v=4" alt="avatar" /></td>
-    <td>Under a full moon, this Pokémon gets vastly smarter, while mimicking Stack Overflow replies.</td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <th width="200">Occupation :briefcase:</th>
-          <th width="200">Category :page_with_curl:</th>
-          <th width="200"">Hobby :joystick:</th>
-                </tr>
-                <tr>
-                    <td>Student :man_student:</td>
-                    <td>Developer :computer:</td>
-                    <td>Illustration :pencil2:</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <table>
-                <tr>
-                    <th width=" 200">Location :pushpin:</th>
-          <th width="200">Growth Rate :chart_with_upwards_trend:</th>
-          <th width="200">Nature :grin:</th>
-        </tr>
-        <tr>
-          <td>Brazil :soccer:</td>
-          <td>Fast :rocket:</td>
-          <td>Gentle :relieved:</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height=24 src="https://img.shields.io/badge/-Ghost-blueviolet" alt="Ghost" />
-      <img height=24 src="https://img.shields.io/badge/-Poison-purple" alt="Poison" />
-    </td>
-  </tr>
-</table>
+---
 
-<!-- - 🌱 I’m currently learning *Prisma ORM, MySQL, Docker, Unity Engine* -->
-- 🎓 Majoring in *Computer Science 💻*
-- 📫 My e-mail address is *pro.gduarte@gmail.com*
-- 😄 My pronouns are: he/him
-- ⚡ Fun fact: I can draw and solve a Rubik's cube (not simultaneously lol)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/15215540?v=4" width="200" height="200" style="border-radius: 5%;" alt="avatar" />
+</div>
 
-<!--
-**Geezgus/Geezgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <strong>
+    <em>“This Pokémon evolves with caffeine and tackles bugs super-effectively!”</em><br>
+    🌓 Under a full moon, it mimics Stack Overflow replies with uncanny precision.<br>
+  </strong>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧾 Summary
+
+| Category        | Details                                                             |
+|----------------|----------------------------------------------------------------------|
+| 🎓 Evolution   | Bachelor's in Computer Science                                       |
+| 🧬 Type        | ![Fire](https://img.shields.io/badge/-Fire-ff4422?style=flat-square) |
+| 💼 Class       | Developer                                                            |
+| 🌍 Location    | Northern Brazil 🇧🇷                                                   |
+| 📈 Growth Rate | Fast 🚀                                                             |
+| 😌 Nature      | Gentle                                                               |
+| 🧩 Ability     | Pixel-perfect UI + Google Search                                     |
+
+---
+
+## ⚡ Fun Facts
+
+- 🧩 Can draw **and** solve a Rubik's cube (not at the same time... yet).
+- 🖌️ Enjoys creating illustrations when not coding.
+- 🔄 Often refactors code like it's evolving into a stronger form.
+- ☕ Runs on coffee. Evolves into final form after 2 cups.
